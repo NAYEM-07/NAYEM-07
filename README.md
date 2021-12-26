@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi 👋 I'm Nayem from Bangladesh.❤️
+### Wish me on 09 October🎂
 
-<!--
-**NAYEM-07/NAYEM-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!!--
+**NAYEM-07 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:🙄
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
